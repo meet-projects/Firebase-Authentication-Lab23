@@ -60,7 +60,7 @@ As well as setting up a Firebase project.
  
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+If not, make sure you submit your code here
 
 
 
@@ -71,6 +71,6 @@ If not, make sure your code is saved in **Repl.it**!
         - The route signs out the user and redirects him to the signin page.
 
 ##### Great job on completing the bonus problems section!  
-###### Make sure your code is saved in Repl.it or on your machine!
+###### Make sure you submit your code here
 
 
