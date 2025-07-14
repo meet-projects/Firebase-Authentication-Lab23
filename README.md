@@ -12,7 +12,7 @@ As well as setting up a Firebase project.
 
 
 
-> Before we start, make sure to go to fork the repo and clone the code in order to set up our environment for this lab.
+> Before we start, make sure to download the [zip file](https://drive.google.com/file/d/1WJbP8t_KQbZINxxMbocRbB_NfWr1x1wF/view?usp=sharing) and export it to sublime
 
 
 ## Authentication Lab:
