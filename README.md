@@ -60,7 +60,7 @@ As well as setting up a Firebase project.
  
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure you submit your code here
+If not, make sure you submit your code [here](https://forms.gle/Pu6z2R9yqvk4DLbD7)
 
 
 
@@ -71,6 +71,6 @@ If not, make sure you submit your code here
         - The route signs out the user and redirects him to the signin page.
 
 ##### Great job on completing the bonus problems section!  
-###### Make sure you submit your code here
+###### Make sure you submit your code [here](https://forms.gle/Pu6z2R9yqvk4DLbD7)
 
 
